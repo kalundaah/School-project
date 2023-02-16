@@ -1,0 +1,63 @@
+Hospitals in one way or another need to be interconnected. in the recent past, this interconnections were only through the use of telecommunication (phones). But this causes delays especially when the patients life is at stake.
+
+Problem statement.
+From the government of Kenya, there was a need to:
+•	Have a digital storage of patient, nurse and doctor data.
+•	Manage the staff organization in hospitals.
+•	Keep stock of medicine.
+•	Check for availability of spaces in hospitals.
+•	Store solutions of patient treatment.
+•	Register new born babies with unique identifications.
+•	Biometric checkups and vaccinations.
+
+Health is a major sector in the republic of Kenya. On a daily basis, there is a daily increase in cases concerning health. These cases are recorded in local pharmacies, clinics and hospitals. This data is very vital for the continuity of the health sector. They can explain the state of a patient and help in the solution of another case with a different patient. For the doctors, there was a need for digital management of the human resources (the doctors, nurses etc.) and the medicines.  This brought a need to digitize the handling of all that that data.
+
+14193 liscenced medical facilities.
+
+Baringo 292
+Bomet 204
+Bungoma 279
+Busia 188
+Elgeyo Marakwet 146
+Embu 207
+Garissa 206
+Homa Bay 307
+Isiolo 79
+Kajiado 390
+Kakamega 358
+Kericho 277
+Kiambu 744
+Kilifi 395
+Kirinyaga 231
+Kisii 284
+Kisumu 360
+Kitui 443
+Kwale 222
+Laikipia 219
+Lamu 68
+Machakos 483
+Makueni 353
+Mandera 216
+Marsabit 144
+Meru 583
+Migori 329
+Mombasa 373
+Muranga 382
+Nairobi 1292
+Nakuru 641
+Nandi  253
+Narok 222
+Nyamira 202
+Nyandarua 189
+Nyeri 449
+Samburu 142
+Siaya 290
+Taita Taveta 133
+Tana River 87
+Tharaka Nithi 201
+Trans Nzoia 186
+Turkana 283
+Uasin Gishu 278
+Vihiga 152
+Wajir 164
+West Pokot 177
