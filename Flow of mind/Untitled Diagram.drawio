@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T06:02:35.729Z" agent="5.0 (Windows)" etag="g8ktxew7Cy24bFAfkpvB" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T06:04:39.750Z" agent="5.0 (Windows)" etag="rIZ4U1lX4ao2lWchOl_e" version="20.8.23" type="github">
   <diagram name="Page-1" id="-h4ZRVuws69emcKpWdF7">
-    <mxGraphModel dx="954" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="6Q0c7e5c6N1S0x8B-yLb-1" value="&lt;div&gt;Home&lt;/div&gt;&lt;div&gt;brief analysis&lt;/div&gt;&lt;div&gt;Nearest clinics&lt;/div&gt;&lt;div&gt;prescription&lt;/div&gt;&lt;div&gt;previous diagnosis&lt;/div&gt;&lt;div&gt;Dose remainder&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="41" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="6Q0c7e5c6N1S0x8B-yLb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Q0c7e5c6N1S0x8B-yLb-2" target="6Q0c7e5c6N1S0x8B-yLb-4">
+        <mxCell id="6Q0c7e5c6N1S0x8B-yLb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Q0c7e5c6N1S0x8B-yLb-2" target="6Q0c7e5c6N1S0x8B-yLb-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Q0c7e5c6N1S0x8B-yLb-2" value="&lt;div&gt;Order&lt;/div&gt;&lt;div&gt;request for medicine at convenient clinic&lt;/div&gt;&lt;div&gt;Check availability of medicine if not check for similarities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="6Q0c7e5c6N1S0x8B-yLb-7" value="&lt;div&gt;Profile&lt;/div&gt;&lt;div&gt;settings&lt;/div&gt;&lt;div&gt;Update personal details&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q0c7e5c6N1S0x8B-yLb-11" value="&lt;div&gt;Req &lt;br&gt;&lt;/div&gt;&lt;div&gt;signinpage&lt;/div&gt;&lt;div&gt;create account&lt;/div&gt;&lt;div&gt;Home page&lt;/div&gt;&lt;div&gt;Update and Order page&lt;/div&gt;&lt;div&gt;Booking page&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;settings page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="471" width="610" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
