@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T06:04:39.750Z" agent="5.0 (Windows)" etag="rIZ4U1lX4ao2lWchOl_e" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T06:05:49.619Z" agent="5.0 (Windows)" etag="OQ81WYYKmCf4-jb014As" version="20.8.23" type="github">
   <diagram name="Page-1" id="-h4ZRVuws69emcKpWdF7">
     <mxGraphModel dx="954" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="6Q0c7e5c6N1S0x8B-yLb-7" value="&lt;div&gt;Profile&lt;/div&gt;&lt;div&gt;settings&lt;/div&gt;&lt;div&gt;Update personal details&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="6Q0c7e5c6N1S0x8B-yLb-11" value="&lt;div&gt;Req &lt;br&gt;&lt;/div&gt;&lt;div&gt;signinpage&lt;/div&gt;&lt;div&gt;create account&lt;/div&gt;&lt;div&gt;Home page&lt;/div&gt;&lt;div&gt;Update and Order page&lt;/div&gt;&lt;div&gt;Booking page&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;settings page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6Q0c7e5c6N1S0x8B-yLb-11" value="&lt;div&gt;Req &lt;br&gt;&lt;/div&gt;&lt;div&gt;signinpage&lt;/div&gt;&lt;div&gt;create account&lt;/div&gt;&lt;div&gt;Home page&lt;/div&gt;&lt;div&gt;Update and Order page&lt;/div&gt;&lt;div&gt;Booking page&lt;/div&gt;settings page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="471" width="610" height="330" as="geometry" />
         </mxCell>
       </root>
