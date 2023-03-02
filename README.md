@@ -1,2 +1,2 @@
 # School project
- Smart health (Health management system)
+ Medicine tracking system
